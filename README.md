@@ -10,4 +10,8 @@ Adicionalmente hemos aprendido a usar el CDN de p5.js incluyendo el siguiente c�
 
 ```
 
+# Notas de clases
+
+Para lograr tener la animación de la elipse, primero se dtermina las variables posX, posY, velocidadX y velocidadY, antes de la función setup.
+
 ```
