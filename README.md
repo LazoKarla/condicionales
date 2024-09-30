@@ -14,4 +14,8 @@ Adicionalmente hemos aprendido a usar el CDN de p5.js incluyendo el siguiente c�
 
 Para lograr tener la animación de la elipse, primero se dtermina las variables posX, posY, velocidadX y velocidadY, antes de la función setup.
 
+Las condiciones if comprueban si el círculo ha alcanzado los bordes del canvas (izquierda/derecha o arriba/abajo) y si es así, cambian la dirección de la velocidad correspondiente multiplicándola por -1.
+
+La condición if (mouseIsPressed)  comprueba si se está presionando el ratón. Si es así, el círculo se llena de rojo; si no, de azul.
+
 ```
